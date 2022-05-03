@@ -4,7 +4,7 @@
 
 ### On this page, I present relevant projects from my time at Pitt. Many of these were final projects designed to comprehensively apply course material, but others were deep dives into a particular topic.
 
-### For some of these, I was able to repurpose work I had done in my free time. Accordingly, I have also included some programs that were never submitted for anything, but are simply passion projects. 
+### For some of these, I was able to repurpose work I had done in my free time. Accordingly, I have also included some passion projects that I have never submitted for any class. 
 
 <!--
 **awindsheimer1/awindsheimer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
